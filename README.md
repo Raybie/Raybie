@@ -6,6 +6,6 @@ I'm a silly fox who loves programming
 - 📚 Learning web design
 - 🌐 Planning to learn Java, hacking and cybersecurity
 - 🧪 I have a big interest in STEM subjects
-- 💬 Feel free to reach out to me on discord **Raybie_**!
+- 💬 Feel free to reach out to me on discord **Raybie_**
 
 
