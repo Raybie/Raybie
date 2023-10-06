@@ -11,4 +11,7 @@ name: Metrics
   
        - name: 🦑 Medias 
          if: ${{ success() || failure() }} 
-         uses: lowlighter/metrics@latest
+         uses: lowlighter/metrics@latest 
+         with: 
+           filename: medias.svg 
+           token: ${{ secrets.METRICS_TOKEN }}
