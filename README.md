@@ -1,4 +1,5 @@
-### Hi there 👋
+# Heyya, I'm Ray
+I'm just a young developer
 
 <!--
 **Raybie/Raybie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
