@@ -1,4 +1,4 @@
-# Heyya, I'm Ray
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=8A22F7&repeat=false&width=435&lines=Heyya%2C+I'm+Raybie!)](https://git.io/typing-svg)
 I'm a silly fox who loves programming
 
 ## About me:
