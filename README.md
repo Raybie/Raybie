@@ -8,3 +8,4 @@ I'm a silly fox who loves programming
 - 🧪 I have a big interest in STEM subjects
 - 💬 Feel free to reach out to me on discord **Raybie_**!
 
+![Metrics](/github-metrics.svg)
