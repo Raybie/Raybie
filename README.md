@@ -11,3 +11,4 @@ I'm a silly fox who loves programming
 ### Metrics:
 ![Metrics](/github-metrics.svg)
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+![Metrics](/metrics.plugin.languages.svg)
