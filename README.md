@@ -1,5 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=8A22F7&repeat=true&width=435&lines=Heyya%2C+I'm+Raybie!)](https://git.io/typing-svg)
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=35&pause=1000&color=BC38F7&width=435&lines=Heyya%2C+I'm+Raybie!)](https://git.io/typing-svg)
+I'm a silly fox who loves programming!
 
 ## About me:
 - 🐍 I usually use python
