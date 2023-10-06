@@ -9,4 +9,5 @@ I'm a silly fox who loves programming
 - 💬 Feel free to reach out to me on discord **Raybie_**
 
 ### Metrics:
+![Metrics](/github-metrics.svg)
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
