@@ -2,7 +2,7 @@
 I'm a silly fox who loves programming!
 
 ## About me:
-- 🐍 python programmer
+- 🐍 Python programmer
 - 📝 Current project: Funky business
 - 📚 Learning web design
 - 🌐 Planning to learn Java, AI, hacking and cybersecurity
